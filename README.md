@@ -38,6 +38,7 @@ IT勉強会「システムエンジニア友の会」主催。
 | Repository | Description |
 |------------|-------------|
 | [claude-code-recall](https://github.com/QuatrexEX/claude-code-recall) | Claude Code のセッション履歴を横断的に閲覧・管理できるGUIツール |
+| [TermMatrix](https://github.com/QuatrexEX/TermMatrix) | Windows Terminalでコマンドプロンプトをグリッド表示するツール |
 | [fe-exam-algorithm-study](https://github.com/QuatrexEX/fe-exam-algorithm-study) | 基本情報技術者試験 科目B アルゴリズムとプログラミング対策の学習資料 |
 
 ## Community
