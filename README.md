@@ -30,6 +30,7 @@ IT勉強会「システムエンジニア友の会」主催。
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [ABYSS - 深海探査記録](https://into-the-abyss.vercel.app) | 深海を探査して生物を捕獲・育成する放置ゲーム | React, Supabase, Vercel |
 | [ボケジャッジ](https://bokejudge.vercel.app) | AIが審査する大喜利バトル | Next.js, Supabase, Gemini |
 | [相模原天気予報](https://sagamihara-weather.vercel.app) | 相模原市の天気予報サイト（和モダンデザイン） | Next.js, Supabase, 気象庁API |
 
