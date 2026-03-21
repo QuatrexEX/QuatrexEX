@@ -10,6 +10,7 @@ IT勉強会「システムエンジニア友の会」主催。
 
 ## Tech Stack
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -38,6 +39,7 @@ IT勉強会「システムエンジニア友の会」主催。
 
 | Repository | Description |
 |------------|-------------|
+| [claude-tank](https://github.com/QuatrexEX/claude-tank) | Claudeプランの使用量をシステムトレイでリアルタイム監視するWindowsアプリ |
 | [claude-code-recall](https://github.com/QuatrexEX/claude-code-recall) | Claude Code のセッション履歴を横断的に閲覧・管理できるGUIツール |
 | [yt-summarizer](https://github.com/QuatrexEX/yt-summarizer) | YouTube動画の字幕を取得し、AIで要約を生成するデスクトップツール |
 | [TermMatrix](https://github.com/QuatrexEX/TermMatrix) | Windows Terminalでコマンドプロンプトをグリッド表示するツール |
