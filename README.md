@@ -27,6 +27,12 @@ IT勉強会「システムエンジニア友の会」主催。
 
 ## Projects
 
+### Web Services
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [そんな返事で大丈夫か？（そんへん）](https://sonhen.vercel.app) | 送る前のメッセージをAIが採点し「送る／直す／今は送るな」を判定するサービス | Next.js, Vercel AI Gateway |
+
 ### OSS / Tools
 
 | Repository | Description |
